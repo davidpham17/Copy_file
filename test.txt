@@ -1,0 +1,14 @@
+Title 
+  	Writing module to list and search file by content (CBDT project).
+ Background 
+NA
+Program Specifications
+Write the functions to list and search file by content including the following requirements:
+1.	Count number of occurrences of a word in a file.
+2.	Search file have content which contain inputted word.
+3.	 Exit.
+When the user chooses 1:
+Require user enter a txt file include multiple rows. Enter a word and then count number of occurrences of this word in a file.
+When the user chooses 2:
+Require user enter in a folder’s path. Then, enter a word and then list all file name which contain this word
+
